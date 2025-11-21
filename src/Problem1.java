@@ -1,3 +1,5 @@
+/* THIS IS SAMPLE PROBLEM FOR BEGINNERS IF YOU ARE NEW TO JAVA */
+
 public class Problem1 {
     public static int fn1(int i){
         i = fn4(i);
