@@ -1,4 +1,7 @@
-/* THIS IS SAMPLE PROBLEM FOR BEGINNERS IF YOU ARE NEW TO JAVA */
+/* 
+    THIS IS SAMPLE PROBLEM FOR BEGINNERS IF YOU ARE NEW TO JAVA 
+    Now tell what will this Class File return?
+*/
 
 public class Problem1 {
     public static int fn1(int i){
