@@ -83,5 +83,3 @@ This mini project aims to:
 
 This project is part of my **Under Graduate DBMS Subject** mini-project submission.
 It is focused on backend logic and database handling rather than graphical interfaces.
-
-Just tell me!
